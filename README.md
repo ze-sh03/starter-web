@@ -6,5 +6,7 @@ This example is to show different parts of the Git repository and various camman
 a  web project
 
 ## Purpose
+The main purpose is to provide simple examples for Git training
 
-## How To Contribute
+## Deployment
+This is a simple web project, deployemnt can be on any web server or even on local file system.
