@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Zorro> -- <Entertainer> -- <twit-ter-zorra>
 
 # THANKS
 
